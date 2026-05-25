@@ -18,6 +18,4 @@ article/
 Author
 Prashant Anand — Data Scientist building production ML systems.
 
-📝 Medium
-💼 GitHub
 ✉️ prashant.anand206@gmail.com
